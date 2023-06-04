@@ -8,12 +8,11 @@ Following the data scraping, we perform sentiment analysis on the scraped tweets
 By combining web automation with Selenium, Twitter data scraping, and sentiment analysis, we can gain insights into the sentiment surrounding a specific topic on Twitter. This project enables the extraction of relevant tweets and provides a sentiment analysis to understand the overall sentiment polarity of the collected data.
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages.
 
 ```bash
 pip install selenium
 pip install by
 pip install service
 pip install chromedrivermanager
-```
-    
+```  
